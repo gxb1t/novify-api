@@ -35,7 +35,7 @@ git push -u origin nome-cognome
 In coppia (esperto + meno esperto):
 
 1. `git clone` di questo repo, poi `git switch -c nome-cognome`
-2. Nel file `PARTECIPANTI.md` compilate la **vostra riga** (nome e branch)
+2. Nel file `BACKLOG.md` **prenotate un task** scrivendo il vostro nome tra parentesi
 3. `git add` / `commit` / `push` del vostro branch
 4. Aprite una **Pull Request** su GitHub
 5. Generate di proposito un **conflitto** modificando la stessa riga di un'altra coppia, poi risolvetelo insieme
