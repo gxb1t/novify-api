@@ -1,0 +1,19 @@
+# Segreti — MAI committare
+.env
+*.pem
+*.key
+
+# Build e dipendenze (si rigenerano)
+target/
+node_modules/
+build/
+dist/
+
+# Log
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
