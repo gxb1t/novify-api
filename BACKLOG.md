@@ -1,6 +1,6 @@
 # Backlog — Novify API
 
-> **PRIORITÀ DI OGGI:** ______________________
+> **PRIORITÀ DI OGGI:** GESTIONE DEI CONFLITTI SU GITHUB
 
 <!--
   ↑ Questa riga serve al GIRO 2 dell'esercizio.
