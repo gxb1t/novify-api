@@ -25,7 +25,7 @@ pulito.
 
 ## I task
 
- 1. [ ] `GET /api/v1/tracks` — lista dei brani ( )
+ 1. [ ] `GET /api/v1/tracks` — lista dei brani (Mandrake709)
  2. [ ] `GET /api/v1/tracks/{id}` — dettaglio di un brano ( )
  3. [ ] `POST /api/v1/tracks` — crea un nuovo brano ( )
  4. [ ] `GET /api/v1/playlists` — lista delle playlist ( )
