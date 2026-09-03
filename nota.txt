@@ -1,0 +1,1 @@
+Ciao, questo è il mio primo file aggiunto con Git.
