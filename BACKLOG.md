@@ -31,7 +31,7 @@ pulito.
  4. [ ] `GET /api/v1/playlists` — lista delle playlist ( )
  5. [ ] `GET /api/v1/playlists/{id}` — dettaglio di una playlist ( )
  6. [ ] `POST /api/v1/playlists` — crea una nuova playlist ( )
- 7. [ ] `PUT /api/v1/playlists/{id}` — aggiungi un brano a una playlist ( )
+ 7. [ ] `PUT /api/v1/playlists/{id}` — aggiungi un brano a una playlist (GiuliaKi)
  8. [ ] `GET /api/v1/tracks?genere=...` — ricerca brani per genere ( )
  9. [ ] `DELETE /api/v1/tracks/{id}` — elimina un brano ( )
 10. [ ] `DELETE /api/v1/playlists/{id}` — elimina una playlist ( )
