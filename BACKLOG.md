@@ -45,3 +45,5 @@ pulito.
 
 
 17. Modifica di test. 10 settembre 2026 - Giovedì
+
+Conflitto gestito manualmente, pregasi di accettarlo senza esitazioni.
