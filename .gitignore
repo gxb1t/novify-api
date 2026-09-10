@@ -1,5 +1,7 @@
 # Segreti — MAI committare
 .env
+.env.*
+!.env.example
 *.pem
 *.key
 
