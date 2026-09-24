@@ -7,11 +7,11 @@ Questo è il repository condiviso del corso. Ci lavoriamo tutti insieme, un bran
 
 ## Mappa del repo
 
-| Dove | Cosa c'è | Da quale lezione |
-|------|----------|------------------|
-| `contracts/` | i contratti Solidity di Novify | 05 → |
-| `docs/` | prerequisiti, cheatsheet, esercizi, slide | 03 → |
-| `BACKLOG.md` | le funzionalità previste dal contratto dell'API | 02 → |
+| Dove | Cosa c'è | |
+|------|----------|-----------------|
+| `contracts/` | i contratti Solidity di Novify | |
+| `docs/` | prerequisiti, cheatsheet, esercizi, slide |  |
+| `BACKLOG.md` |  |  |
 
 `api/` (il backend che legge la catena) e `web/` (la vetrina col wallet) arriveranno con le lezioni 08 e 11.
 
@@ -19,16 +19,16 @@ Questo è il repository condiviso del corso. Ci lavoriamo tutti insieme, un bran
 
 ## Regole del repo (leggere prima di iniziare)
 
-1. **Niente push diretto su `main`.** Il branch è protetto: ci si arriva solo con una Pull Request **approvata da un'altra persona**. Nessuno fa merge del proprio lavoro da solo — è la regola, non una cortesia.
+1. **Niente push diretto su `main`.** Il branch è protetto: ci si arriva solo con una Pull Request **approvata da un'altra persona**. Nessuno fa merge del proprio lavoro da solo.
 2. **Un task = un branch.** Per questo esercizio ognuno crea il proprio branch:
    ```
    git switch -c nome-cognome
    ```
-   Più avanti useremo nomi parlanti per i task veri, es. `feature/endpoint-brani`.
-3. **Messaggi di commit brevi e all'imperativo**, es. `aggiungi endpoint GET brani`, `correggi validazione playlist`.
-4. **Mai committare segreti.** Le chiavi stanno in `.env` (che è nel `.gitignore`). Vedi `.env.example`.
+   Si usano nomi parlanti per i task veri, es. `feature/endpoint-brani`, `feature/[TASK-JIRA]`..
+3. **Messaggi di commit **, es. `aggiungi endpoint GET brani`, `correggi validazione playlist`.
+4. **Mai committare segreti o file sensibili.** Le chiavi stanno in `.env` (che è nel `.gitignore`). Vedi `.env.example`.
 
-## Il flusso di squadra
+## Il flusso
 
 ```
 git pull            # parti sempre da main aggiornato
@@ -85,6 +85,5 @@ Endpoint di riferimento del contratto già progettato: `GET /api/v1/tracks`, `GE
 
 - `docs/PREREQUISITI.md` — come preparare il computer prima della lezione su Git
 - `docs/GIT-CHEATSHEET.md` — i comandi Git essenziali, gli stessi delle slide
-- `docs/ESERCIZI.md` — le consegne della lezione su Git, passo per passo
+- `docs/ESERCIZI.md` — alcuni test da fare su Git, passo per passo
 - `.env.example` — come impostare le chiavi senza committarle
-- Deck della lezione su Git e GitHub (Canva, cartella 2° anno)
