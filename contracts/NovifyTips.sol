@@ -21,4 +21,5 @@ contract NovifyTips {
         lastSupporter = msg.sender;   // chi ha firmato la transazione: ce lo mette la EVM
         totalReceived += msg.value;   // scrive nello storage → questa chiamata costa gas
     }
+
 }
