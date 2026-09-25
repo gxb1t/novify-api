@@ -1,6 +1,6 @@
 # Backlog — Novify API
 
-> **PRIORITÀ DI OGGI:** ______________________
+> **PRIORITÀ DI OGGI:** GESTIONE DEI CONFLITTI SU GITHUB
 
 <!--
   ↑ Questa riga serve al GIRO 2 dell'esercizio.
@@ -25,8 +25,13 @@ pulito.
 
 ## I task
 
+<<<<<<< HEAD
  1. [ ] `GET /api/v1/tracks` — lista dei brani (Mandrake709)
  2. [ ] `GET /api/v1/tracks/{id}` — dettaglio di un brano ( )
+=======
+ 1. [ ] `GET /api/v1/tracks` — lista dei brani ( )
+ 2. [ ] `GET /api/v1/tracks/{id}` — dettaglio di un brano (igor-marongiu)
+>>>>>>> 5d894aa9bca2865d9554a8fd669121eddc8b9bc5
  3. [ ] `POST /api/v1/tracks` — crea un nuovo brano ( )
  4. [ ] `GET /api/v1/playlists` — lista delle playlist ( )
  5. [ ] `GET /api/v1/playlists/{id}` — dettaglio di una playlist ( )
