@@ -36,24 +36,24 @@ la sua riga: se lo salti, il push viene **rifiutato**. Non è un errore: fai `gi
 
 ## Gli indirizzi
 
-| #  | Nome            | GitHub | Indirizzo (Sepolia)                         |
-|----|-----------------|--------|---------------------------------------------|
-| 1  | Giuseppe Burrai |        | 0xDDCB8143F515b738E0ee4676b5348EbF476D58AD  |
-| 2  | William Saias   |        | 0x6A42c1B9BE1d61682089f22eA2d329754381b93E  |
-| 3  | Cristian        |        | 0x0B71E41398BBAE92b3490ADf36e6bea6ACd24d7B  |
-| 4  |                 |        |                                             |
-| 5  |                 |        |                                             |
-| 6  |                 |        |                                             |
-| 7  |                 |        |                                             |
-| 8  |                 |        |                                             |
-| 9  |                 |        |                                             |
-| 10 |  Igor           |        |0xD836939701e6bCB44bb3568Ae5527BCeC508b062                                             |
-| 11 |                 |        |                                             |
-| 12 |                 |        |                                             |
-| 13 |                 |        |                                             |
-| 14 |                 |        |                                             |
-| 15 |                 |        |                                             |
-| 16 |                 |        |                                             |
+| #  | Nome                  | GitHub | Indirizzo (Sepolia)                        |
+|----|-----------------------|--------|--------------------------------------------|
+| 1  | Giuseppe Burrai       |        | 0xDDCB8143F515b738E0ee4676b5348EbF476D58AD |
+| 2  | William Saias         |        | 0x6A42c1B9BE1d61682089f22eA2d329754381b93E |
+| 3  | Cristian              |        | 0x0B71E41398BBAE92b3490ADf36e6bea6ACd24d7B |
+| 4  | Alessandro Bassignani |        | 0xA7D40D3A158d4f51CfcA256F163eD88da41a1adc |
+| 5  |                       |        |                                            |
+| 6  |                       |        |                                            |
+| 7  |                       |        |                                            |
+| 8  |                       |        |                                            |
+| 9  |                       |        |                                            |
+| 10 | Igor                  |        | 0xD836939701e6bCB44bb3568Ae5527BCeC508b062 |
+| 11 |                       |        |                                            |
+| 12 |                       |        |                                            |
+| 13 |                       |        |                                            |
+| 14 |                       |        |                                            |
+| 15 |                       |        |                                            |
+| 16 |                       |        |                                            |
 
 Se il tuo account è ancora a zero, gli ETH di test si prendono dal faucet:
 https://sepolia-faucet.pk910.de/ — incolli il tuo indirizzo, lasci lavorare la pagina e poi
