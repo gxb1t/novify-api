@@ -39,7 +39,7 @@ la sua riga: se lo salti, il push viene **rifiutato**. Non è un errore: fai `gi
 | #  | Nome            | GitHub | Indirizzo (Sepolia)                         |
 |----|-----------------|--------|---------------------------------------------|
 | 1  | Giuseppe Burrai |        | 0xDDCB8143F515b738E0ee4676b5348EbF476D58AD  |
-| 2  |                 |        |                                             |
+| 2  | William Saias   |        | 0x6A42c1B9BE1d61682089f22eA2d329754381b93E  |
 | 3  |                 |        |                                             |
 | 4  |                 |        |                                             |
 | 5  |                 |        |                                             |
