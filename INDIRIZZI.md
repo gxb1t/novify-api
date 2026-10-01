@@ -36,24 +36,24 @@ la sua riga: se lo salti, il push viene **rifiutato**. Non è un errore: fai `gi
 
 ## Gli indirizzi
 
-| #  | Nome | GitHub | Indirizzo (Sepolia) |
-|----|------|--------|---------------------|
-| 1  |      |        |                     |
-| 2  |      |        |                     |
-| 3  |      |        |                     |
-| 4  |      |        |                     |
-| 5  |      |        |                     |
-| 6  |      |        |                     |
-| 7  |      |        |                     |
-| 8  |      |        |                     |
-| 9  |      |        |                     |
-| 10 |      |        |                     |
-| 11 |      |        |                     |
-| 12 |      |        |                     |
-| 13 |      |        |                     |
-| 14 |      |        |                     |
-| 15 |      |        |                     |
-| 16 |      |        |                     |
+| #  | Nome            | GitHub | Indirizzo (Sepolia)                         |
+|----|-----------------|--------|---------------------------------------------|
+| 1  | Giuseppe Burrai |        | 0xDDCB8143F515b738E0ee4676b5348EbF476D58AD  |
+| 2  |                 |        |                                             |
+| 3  |                 |        |                                             |
+| 4  |                 |        |                                             |
+| 5  |                 |        |                                             |
+| 6  |                 |        |                                             |
+| 7  |                 |        |                                             |
+| 8  |                 |        |                                             |
+| 9  |                 |        |                                             |
+| 10 |                 |        |                                             |
+| 11 |                 |        |                                             |
+| 12 |                 |        |                                             |
+| 13 |                 |        |                                             |
+| 14 |                 |        |                                             |
+| 15 |                 |        |                                             |
+| 16 |                 |        |                                             |
 
 Se il tuo account è ancora a zero, gli ETH di test si prendono dal faucet:
 https://sepolia-faucet.pk910.de/ — incolli il tuo indirizzo, lasci lavorare la pagina e poi
