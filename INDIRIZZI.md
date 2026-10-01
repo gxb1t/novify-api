@@ -40,7 +40,7 @@ la sua riga: se lo salti, il push viene **rifiutato**. Non è un errore: fai `gi
 |----|-----------------|--------|---------------------------------------------|
 | 1  | Giuseppe Burrai |        | 0xDDCB8143F515b738E0ee4676b5348EbF476D58AD  |
 | 2  | William Saias   |        | 0x6A42c1B9BE1d61682089f22eA2d329754381b93E  |
-| 3  |                 |        |                                             |
+| 3  | Cristian        |        | 0x0B71E41398BBAE92b3490ADf36e6bea6ACd24d7B  |
 | 4  |                 |        |                                             |
 | 5  |                 |        |                                             |
 | 6  |                 |        |                                             |
