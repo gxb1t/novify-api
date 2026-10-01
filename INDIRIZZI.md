@@ -47,7 +47,7 @@ la sua riga: se lo salti, il push viene **rifiutato**. Non è un errore: fai `gi
 | 7  |                 |        |                                             |
 | 8  |                 |        |                                             |
 | 9  |                 |        |                                             |
-| 10 |                 |        |                                             |
+| 10 |  Igor           |        |0xD836939701e6bCB44bb3568Ae5527BCeC508b062                                             |
 | 11 |                 |        |                                             |
 | 12 |                 |        |                                             |
 | 13 |                 |        |                                             |
